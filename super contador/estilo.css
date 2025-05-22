@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: rgb(66, 66, 236);
+    font: normal 15pt arial;
+   
+
+}
+
+header{
+    color: white;
+    text-align: center;  /* CENTRALIZAR */
+}
+
+section{
+  background-color: white;
+  border-radius: 10px;   /* Borda arredondada */
+  padding: 15px;
+  width: 500px;
+  margin: auto;  /* Centralizar na tela */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.341);   /* BORDAS EM VOLTAS */
+ 
+
+
+
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
